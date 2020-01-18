@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ecd013d3d963b1e3049bee6ddfeecad4",
+    "revision": "d3e1ebf81b4a625817dea8fabbdd74d3",
     "url": "/realk_app/index.html"
   },
   {
-    "revision": "19841375293bcf97b7b8",
+    "revision": "4485ed6f7930aef562d8",
     "url": "/realk_app/static/css/main.309ce4a2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/realk_app/static/js/2.5e45fdd7.chunk.js.LICENSE"
   },
   {
-    "revision": "19841375293bcf97b7b8",
-    "url": "/realk_app/static/js/main.453d3b9f.chunk.js"
+    "revision": "4485ed6f7930aef562d8",
+    "url": "/realk_app/static/js/main.e05fec00.chunk.js"
   },
   {
     "revision": "15c067467b78145ac497",
