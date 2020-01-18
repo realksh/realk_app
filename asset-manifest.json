@@ -1,22 +1,19 @@
 {
   "files": {
-    "main.css": "/realk_app/static/css/main.309ce4a2.chunk.css",
-    "main.js": "/realk_app/static/js/main.e05fec00.chunk.js",
-    "main.js.map": "/realk_app/static/js/main.e05fec00.chunk.js.map",
+    "main.js": "/realk_app/static/js/main.c1c1cffa.chunk.js",
+    "main.js.map": "/realk_app/static/js/main.c1c1cffa.chunk.js.map",
     "runtime-main.js": "/realk_app/static/js/runtime-main.1647a0b3.js",
     "runtime-main.js.map": "/realk_app/static/js/runtime-main.1647a0b3.js.map",
-    "static/js/2.5e45fdd7.chunk.js": "/realk_app/static/js/2.5e45fdd7.chunk.js",
-    "static/js/2.5e45fdd7.chunk.js.map": "/realk_app/static/js/2.5e45fdd7.chunk.js.map",
+    "static/js/2.f4dc4db9.chunk.js": "/realk_app/static/js/2.f4dc4db9.chunk.js",
+    "static/js/2.f4dc4db9.chunk.js.map": "/realk_app/static/js/2.f4dc4db9.chunk.js.map",
     "index.html": "/realk_app/index.html",
-    "precache-manifest.15b191f35d8fc097cf70c0bb884f7e5e.js": "/realk_app/precache-manifest.15b191f35d8fc097cf70c0bb884f7e5e.js",
+    "precache-manifest.81bfe5ae681feae1f93433742983fcc0.js": "/realk_app/precache-manifest.81bfe5ae681feae1f93433742983fcc0.js",
     "service-worker.js": "/realk_app/service-worker.js",
-    "static/css/main.309ce4a2.chunk.css.map": "/realk_app/static/css/main.309ce4a2.chunk.css.map",
-    "static/js/2.5e45fdd7.chunk.js.LICENSE": "/realk_app/static/js/2.5e45fdd7.chunk.js.LICENSE"
+    "static/js/2.f4dc4db9.chunk.js.LICENSE": "/realk_app/static/js/2.f4dc4db9.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.1647a0b3.js",
-    "static/js/2.5e45fdd7.chunk.js",
-    "static/css/main.309ce4a2.chunk.css",
-    "static/js/main.e05fec00.chunk.js"
+    "static/js/2.f4dc4db9.chunk.js",
+    "static/js/main.c1c1cffa.chunk.js"
   ]
 }

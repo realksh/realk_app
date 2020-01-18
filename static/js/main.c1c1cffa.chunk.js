@@ -1,0 +1,2 @@
+(this.webpackJsonprealk_app=this.webpackJsonprealk_app||[]).push([[0],{17:function(e,t,n){e.exports=n(27)},27:function(e,t,n){"use strict";n.r(t);var a=n(0),r=n.n(a),o=n(13),u=n.n(o),l=n(14),c=n(5);var p=function(){return r.a.createElement("span",null,"About this page: I built it because I love movies.")};var s=function(){return r.a.createElement(l.a,null,r.a.createElement(c.a,{path:"/about",component:p}))};u.a.render(r.a.createElement(s,null),document.getElementById("root"))}},[[17,1,2]]]);
+//# sourceMappingURL=main.c1c1cffa.chunk.js.map
