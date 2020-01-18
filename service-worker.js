@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/realk_app/precache-manifest.c4b2336325b1be2728781d7d5ad5e45a.js"
+  "/realk_app/precache-manifest.e9a8c60301d570d6796bdd0c90adf21c.js"
 );
 
 self.addEventListener('message', (event) => {
