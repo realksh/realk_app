@@ -2,7 +2,7 @@
   "name": "realk_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://realksh.github.io/realk_app",
+  "homepage": "https://realksh.github.io/realk_app/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
@@ -12,6 +12,7 @@
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.3.0"
   },
   "scripts": {
